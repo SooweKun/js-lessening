@@ -1,0 +1,13 @@
+button{
+    border-radius: 20px;
+    border: black 1px solid;
+    background-color: aqua;
+    height: 30px;
+    width: 400px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    margin-top: 300px;
+}
